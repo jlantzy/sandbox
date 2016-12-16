@@ -6,3 +6,5 @@ Java 8 installed/configured
 Grails 3.2 or later installed/configured (3.2.3 used initially here)
 
 Steps:
+1. drink coffee
+2. repeat
